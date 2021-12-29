@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+description: 
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_cicular: false # crops the image to make it circular
+  image: suyang.jpeg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Building 2, USTC</p>
+    <p>443 Huangshan Road</p>
+    <p>Hefei, Anhui, China</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+# news: true  # includes a list of news items
+# selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a senior undergraduate in the [School of Computer Science and Technology](http://en.cs.ustc.edu.cn/) at [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My Chinese given name is 溯飏 (Su Yang), pronounced as 溯/sʊ/ 飏/jʌn/. My family name is 钟 (Zhong). To pronounce it, just change <b>zone</b> /zəʊn/ to /dʒəʊn/. (It's also how my domain name came from 😋 )
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests include software engineering and program analysis. For more information please see my <a href="CV">CV</a>.

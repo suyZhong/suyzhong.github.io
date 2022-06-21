@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: ustc.jpeg
+  image: suyang_USTC.JPG
   address: >
     <p>Building 2, USTC</p>
     <p>443 Huangshan Road</p>
@@ -22,3 +22,15 @@ I am a senior undergraduate in the [School of Computer Science and Technology](h
 My Chinese given name is 溯飏 (Su Yang), pronounced as 溯/sʊ/ 飏/jʌn/. My family name is 钟 (Zhong). To pronounce it, just change <b>zone</b> /zəʊn/ to /dʒəʊn/. (It's also how my domain name came from 😋 )
 
 My research interests include software engineering and program analysis. For more information please see my <a href="CV">CV</a>.
+
+Contact: zhongsuyang@mail.ustc.edu.cn or suyang@u.nus.edu
+
+### Activities
+
+#### Student Volunteer
+
+- 2022: ICSE
+
+### Awards
+
+- Awarded Outstanding Graduates at USTC, China

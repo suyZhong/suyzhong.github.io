@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: suyang_USTC.JPG
+  image: sunglass.jpg
   address: >
     <p>Building 2, USTC</p>
     <p>443 Huangshan Road</p>

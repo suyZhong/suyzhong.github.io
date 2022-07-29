@@ -9,7 +9,7 @@ nav: true
 ### Education
 
 
-##### University of Science and Technology of China <span style="float:right;">Sep 2018 - Present</span>
+##### University of Science and Technology of China <span style="float:right;">Sep 2018 - 2022</span>
 
 - Bachelor of Engineering, majoring in Computer Science and Technology
 - Overall GPA: 3.67/4.3
@@ -17,7 +17,7 @@ nav: true
 
 ### Experience
 
-<h5 class="category"> Bachelor Thesis (In progress) <span style="float:right;">Oct 2021 - Present</span> </h5>
+<!-- <h5 class="category"> Bachelor Thesis (In progress) <span style="float:right;">Oct 2021 - Present</span> </h5>
 
 - Study of Membership Inference Attack on Deep Learning Models
 - Supervisor: Prof. <a href="https://sunjun.site/">Jun Sun</a> at Singapore Management University and Prof. <a href="https://yinxingxue.github.io/">Yinxing Xue</a> at USTC
@@ -43,10 +43,12 @@ accuracy as a criterion to measure the risk of training samples.
 - Study influencing factors of neural network pruning strategy
 - Supervisor: Prof. <a href="http://staff.ustc.edu.cn/~bhua/">Bei Hua</a> at USTC
 - Based on a mainstream model (YOLOv3) in object detection research, reproduce a pruning method (Network Slimming) and train new pruned models on different datasets. Choose 3 datasets of different degrees of complexity, and study the influence of datasets on pruning strategies for object detection task.
-<br/><br/>
+<br/><br/> -->
 
 ### TA Experience
 
 <h5 class="category">  Analog and Digital Circuit <span style="float:right;">Fall semester, 2020</span></h5>
 
 <h5 class="category">  Mathematical Logic <span style="float:right;">Spring semester, 2021</span></h5>
+
+<h5 class="category">  Introduction to Software Engineering <span style="float:right;">Spring semester, 2022</span></h5>

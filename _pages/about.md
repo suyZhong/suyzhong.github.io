@@ -24,12 +24,3 @@ My research interests include software engineering and program analysis. For mor
 
 Contact: zhongsuyang@mail.ustc.edu.cn or suyang@u.nus.edu
 
-### Activities
-
-#### Student Volunteer
-
-- 2022: ICSE
-
-### Awards
-
-- Awarded Outstanding Graduates at USTC, China

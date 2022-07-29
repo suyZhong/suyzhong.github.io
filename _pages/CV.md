@@ -45,6 +45,16 @@ accuracy as a criterion to measure the risk of training samples.
 - Based on a mainstream model (YOLOv3) in object detection research, reproduce a pruning method (Network Slimming) and train new pruned models on different datasets. Choose 3 datasets of different degrees of complexity, and study the influence of datasets on pruning strategies for object detection task.
 <br/><br/> -->
 
+### Activities
+
+#### Student Volunteer
+
+- 2022: ICSE
+
+### Awards
+
+- Awarded Outstanding Graduates at USTC, China
+
 ### TA Experience
 
 <h5 class="category">  Analog and Digital Circuit <span style="float:right;">Fall semester, 2020</span></h5>

@@ -13,7 +13,8 @@ category: life
     </div>
 </div>
 <div class="caption">
-    八点左右的Utown，天将暗未暗，有些许行人在草坪旁驻足歇脚。
+    八点左右的Utown，天将暗未暗，有些许行人在草坪旁驻足歇脚。<br>
+    Utown about 8 p.m. The sky is dark, the buildings shining spark.
 </div>
 
 <hr>
@@ -27,7 +28,9 @@ category: life
     </div>
 </div>
 <div class="caption">
-    目前在Utown发现两只🐈， 一只奶牛（左）一只玳瑁（右）都是给撸给抱给亲亲的好猫！
+    目前在Utown发现两只🐈， 一只奶牛（左）一只玳瑁（右）都是给撸给抱给亲亲的好猫！<br>
+
+    Two cats in Utown! One like cow 🐄 (left) and one like tortoiseshell (right).
 </div>
 <hr>
 <div class="row">
@@ -36,7 +39,8 @@ category: life
     </div>
 </div>
 <div class="caption">
-    傍晚于实验室走廊上拍摄，新建的COM3楼和BIZ2交相辉映，这里面有多少打工人呢👷‍♀️👷。
+    傍晚于实验室走廊上拍摄，新建的COM3楼和BIZ2交相辉映，这里面有多少打工人呢👷‍♀️👷。<br>
+    Newly built COM3 and BIZ2 complement each other. How many people are busy working there?
 </div>
 
 <hr>
@@ -50,7 +54,9 @@ category: life
     </div>
 </div>
 <div class="caption">
-    日夜笙歌，歌舞升平。
+    日夜笙歌，歌舞升平。<br>
+
+    Singing and dancing 🎤 💃
 </div>
 
 <div class="row justify-content-sm-center">
@@ -62,5 +68,7 @@ category: life
     </div>
 </div>
 <div class="caption">
-    左图是黄昏的Utown（无滤镜版）；右图是清晨前往校车站的路上，虽倾盆大雨，却滴水不沾
+    左图是黄昏的Utown（无滤镜版）；右图是清晨前往校车站的路上，虽倾盆大雨，却滴水不沾<br>
+
+    Dusk Utown (left) and Morning Utown (right).
 </div>

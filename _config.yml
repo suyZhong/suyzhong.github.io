@@ -79,7 +79,7 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
-wechat_id: ZSY65243847
+wechat_id: CrispyF1sh
 
 rss_icon: false
 
@@ -125,9 +125,10 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-
-news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-news_limit: 5 # leave blank to include all the news in the `_news` folder
+  life:
+    output: true
+    permalink: /life/:path/
+news_limit: 5
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

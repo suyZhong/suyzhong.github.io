@@ -2,14 +2,14 @@
 layout: page
 title: NUS photos
 description: Pictures of the surroundings of my lab, residence, and school.
-img: assets/img/NUS/night_utown.jpeg
+img: assets/img/night_utown.jpeg
 importance: 1
 category: life
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/NUS/night_utown.jpeg" title="Utown at early evening" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/night_utown.jpeg" title="Utown at early evening" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -21,10 +21,10 @@ category: life
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/NUS/cat_utown.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/cat_utown.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/NUS/cat_daimao.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/cat_daimao.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -35,7 +35,7 @@ category: life
 <hr>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/NUS/COM3.jpeg" title="COM3" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/COM3.jpeg" title="COM3" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -47,10 +47,10 @@ category: life
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/NUS/concert_day.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/concert_day.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/NUS/concert_night.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/concert_night.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -61,10 +61,10 @@ category: life
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/NUS/dusk_utown.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/dusk_utown.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/NUS/rain_utown.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/rain_utown.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

@@ -2,7 +2,7 @@
 layout: page
 title: 种草&踩雷日记
 description: Food Recommendation!
-img: assets/img/food/hainan.jpeg
+img: assets/img/hainan.jpeg
 importance: 1
 category: life
 ---
@@ -11,7 +11,7 @@ category: life
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/food/cuipiji.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/cuipiji.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -21,7 +21,7 @@ category: life
 <hr>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/food/chicken.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/chicken.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -42,7 +42,7 @@ category: life
 <hr>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/food/3.6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/3.6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -64,7 +64,7 @@ category: life
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/food/beef_rice.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/beef_rice.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -98,7 +98,7 @@ category: life
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/food/cake.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/cake.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

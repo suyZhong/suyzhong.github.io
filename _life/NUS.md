@@ -58,7 +58,7 @@ category: life
 
     Singing and dancing 🎤 💃
 </div>
-
+<hr>
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/dusk_utown.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -71,4 +71,29 @@ category: life
     左图是黄昏的Utown（无滤镜版）；右图是清晨前往校车站的路上，虽倾盆大雨，却滴水不沾<br>
 
     Dusk Utown (left) and Morning Utown (right).
+</div>
+<hr>
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/waiting4bus.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/emptybus.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    晚上的COM3和始发站的D1<br>
+    Could always get on empty D1 from COM3 stop 😜
+</div>
+
+<hr>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/lab_accessory.jpeg" title="Utown at early evening" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    工位：曲面屏，鹦鹉🦜，鳄鱼🐊，小狮子🦁️和卡比<br>
+    My seat (A17) in the PLSE lab! With a parrot🦜, a crocodile🐊, LiNUS and Kirby!
 </div>

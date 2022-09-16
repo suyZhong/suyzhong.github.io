@@ -8,7 +8,9 @@ profile:
   align: right
   image: sunglass.jpg
   address: >
-    <p>Singapore</p>
+    <p>Computing 3 #02-20,</p>
+    <p>11 Research Link,</p> 
+    <p>Singapore 119391.</p>
 
 news: true  # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"

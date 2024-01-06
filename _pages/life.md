@@ -2,7 +2,7 @@
 layout: page
 title: Life
 permalink: /life/
-description: My life here in Singapore
+description: My life here in Singapore, & more
 nav: false
 nav_order: 2
 display_categories: [life]

@@ -8,6 +8,11 @@ nav: true
 
 ### Education
 
+##### National University of Singapore <span style="float:right;">Aug 2022 - Present</span>
+
+- Ph.D. Candidate in Computer Science
+- Supervisor: Prof. <a href="https://www.manuelrigger.at/">Manuel Rigger</a>
+
 
 ##### University of Science and Technology of China <span style="float:right;">Sep 2018 - 2022</span>
 

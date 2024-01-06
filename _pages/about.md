@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: sunglass.jpg
+  image: IMG_7599.jpg
   address: >
     <p>Computing 3 #02-20,</p>
     <p>11 Research Link,</p> 
@@ -22,7 +22,7 @@ I am a Ph.D. student in the Trustworthy Engineering of Software Technologies ([T
 
 My Chinese given name is 溯飏 (Su Yang), pronounced as 溯/sʊ/ 飏/jʌn/. My family name is 钟 (Zhong). To pronounce it, just change <b>zone</b> /zəʊn/ to /dʒəʊn/. (It's also how my domain name came from 😋 )
 
-My research interests include software engineering and program analysis. For more information please see my <a href="CV">CV</a>.
+My research interests include software engineering and program analysis. Currently I'm working on testing DBMS systems and have found a log of bugs. For more information please see my <a href="CV">CV</a>.
 
-Contact: zhongsuyang@mail.ustc.edu.cn or suyang@u.nus.edu
+Contact: suyang@u.nus.edu
 

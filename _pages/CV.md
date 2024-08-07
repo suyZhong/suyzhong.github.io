@@ -6,7 +6,7 @@ description: My education and research experience. <a href="/assets/pdf/CV.pdf" 
 nav: true
 ---
 
-### Education
+## Education
 
 ##### National University of Singapore <span style="float:right;">Aug 2022 - Present</span>
 
@@ -20,7 +20,7 @@ nav: true
 - Overall GPA: 3.67/4.3
 <br/><br/>
 
-### Experience
+<!-- ### Experience -->
 
 <!-- <h5 class="category"> Bachelor Thesis (In progress) <span style="float:right;">Oct 2021 - Present</span> </h5>
 
@@ -50,20 +50,37 @@ accuracy as a criterion to measure the risk of training samples.
 - Based on a mainstream model (YOLOv3) in object detection research, reproduce a pruning method (Network Slimming) and train new pruned models on different datasets. Choose 3 datasets of different degrees of complexity, and study the influence of datasets on pruning strategies for object detection task.
 <br/><br/> -->
 
-### Activities
+----
+
+## Activities
 
 #### Student Volunteer
 
 - 2022: ICSE
 
-### Awards
+----
+
+## Awards
 
 - Awarded Outstanding Graduates at USTC, China
 
-### TA Experience
+----
 
-<h5 class="category">  Analog and Digital Circuit <span style="float:right;">Fall semester, 2020</span></h5>
+## TA
 
-<h5 class="category">  Mathematical Logic <span style="float:right;">Spring semester, 2021</span></h5>
 
-<h5 class="category">  Introduction to Software Engineering <span style="float:right;">Spring semester, 2022</span></h5>
+#### NUS
+
+<div class="category">  Head TA @ <a href="https://nusmods.com/courses/CS3213/foundations-of-software-engineering">CS3213</a> Foundations of Software Engineering <span style="float:right;"> AY2023/2024 Semester 2</span></div>
+
+<div class="category">  <a href="https://nusmods.com/courses/CS3245/information-retrieval">CS3245</a> Information Retrieval <span style="float:right;"> AY2022/2023 Semester 2</span></div>
+
+<br>
+
+#### USTC
+
+<div class="category">  Introduction to Software Engineering <span style="float:right;">Spring semester, 2022</span></div>
+
+<div class="category">  Mathematical Logic <span style="float:right;">Spring semester, 2021</span></div>
+
+<div class="category">  Analog and Digital Circuit <span style="float:right;">Fall semester, 2020</span></div>

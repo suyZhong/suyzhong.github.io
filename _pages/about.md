@@ -24,5 +24,7 @@ My Chinese given name is 溯飏 (Su Yang), pronounced as 溯/sʊ/ 飏/jʌn/. My 
 
 My research interests include software engineering and program analysis. Currently I'm working on testing DBMS systems and have found a log of bugs. For more information please see my <a href="CV">CV</a>.
 
+I like travelling. I also like to take photos of the places I have been to. Find some of my photos in the [travel blog](/life/travel_blog/).
+
 Contact: suyang@u.nus.edu
 

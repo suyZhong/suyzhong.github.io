@@ -10,6 +10,63 @@ category: life
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/f1singapore.jpeg" title="NA" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    F1@新加坡 <br>
+    Formula 1 Singapore GP, 2024-9-20
+</div>
+
+<hr>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/mbsfirework.jpeg" title="NA" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    滨海湾国庆烟花@新加坡 <br>
+    Firework show@Singapore, 2024-8-9
+</div>
+
+<hr>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/southasu.jpeg" title="NA" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    前往上色见熊野神社的路上@熊本 <br>
+    Somewhare at Takamori, Kumamoto, 2024-7-12
+</div>
+
+<hr>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/sakurabird.jpeg" title="NA" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    栗耳短脚鹎@京都 <br>
+    Brown-eared Bulbul with sakura at Kyoto, 2024-3-28
+</div>
+
+<hr>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/circular.jpeg" title="NA" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    南半球最美车站@悉尼 <br>
+    Circular Quay at Sydney 2024-2-28
+</div>
+
+<hr>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/BeijingBird.jpeg" title="NA" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -72,46 +129,23 @@ Begin to use Nikon⬆️
 <hr>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/southernisland.jpeg" title="NA" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    新加坡南部群岛<br>
+    Hiking @ St John's Island, Singapore, 2023-4-29<br>
+</div>
+
+<hr>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Bromo.jpeg" title="NA" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     印尼的布罗莫火山<br>
     Bromo at Surabaya, Indonesia, 2023-8-19
-</div>
-
-<hr>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Disney.jpeg" title="NA" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    上迪烟花<br>
-    Disneyland at Shanghai, 2023-5-26
-</div>
-
-<hr>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MarinaBay.jpeg" title="NA" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    摩天轮上看的滨海湾<br>
-    Marina Bay at Singapore, 2023-4-25
-</div>
-
-<hr>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/KualaLumpur.jpeg" title="NA" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    吉隆坡民宿上很巧拍到的<br>
-    Kuala Lumpur Tower at KL, 2023-2-26
 </div>
 
 <hr>

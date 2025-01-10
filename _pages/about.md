@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: IMG_7599.jpeg
+  image: IMG_4355.jpeg
   address: >
     <p>Computing 3 #02-20,</p>
     <p>11 Research Link,</p> 

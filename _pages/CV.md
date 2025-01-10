@@ -62,7 +62,8 @@ accuracy as a criterion to measure the risk of training samples.
 
 ## Awards
 
-- Awarded Outstanding Graduates at USTC, China
+- NUS Research Achievement Award <span style="float:right;">2025</span>
+- Awarded Outstanding Graduates at USTC, China <span style="float:right;">2022</span>
 
 ----
 

@@ -7,6 +7,91 @@ importance: 1
 category: life
 ---
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/osaka_sakura.jpeg" title="NA" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    大阪城公园 <br>
+    Osaka Castle Park, 2025-04-04
+</div>
+
+<hr>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/fukuyama.jpeg" title="NA" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    鞆の浦海边@福山 <br>
+    Tomonoura @ Fukuyama, 2025-04-02
+</div>
+
+<hr>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/harbin_station.jpeg" title="NA" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    哈尔滨站 <br>
+    Harbin Station, 2024-12-20
+</div>
+
+<hr>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Changbaishan.jpeg" title="NA" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    长白山天池@延边 <br>
+    Paektu Mountain, 2024-12-19
+</div>
+
+<hr>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/gulangyu.jpeg" title="NA" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    鼓浪屿@厦门 <br>
+    City view for Xiamen at Gulangyu, 2024-12-13
+</div>
+
+<hr>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Ricoh.jpeg" title="NA" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    开始用理光啦 <br>
+    Start to use Ricoh!
+</div>
+
+<hr>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/hokkaido_fall.jpeg" title="NA" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    美瑛骑行路上的一处农田 <br>
+    A farm in the fall of Hokkaido, 2024-10-31
+</div>
+
+<hr>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -19,6 +104,7 @@ category: life
 </div>
 
 <hr>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/mbsfirework.jpeg" title="NA" class="img-fluid rounded z-depth-1" %}

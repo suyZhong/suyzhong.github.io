@@ -3,14 +3,255 @@ layout: page
 permalink: /bugs/
 title: Found Bugs
 description: Found bugs in DBMS systems.
-nav: false
+nav: true
 ---
 <div class="bombs">
 
 
 <div class="container">
 <br/>
-<h2 id="dbms">Database Management Systems (241 bugs)</h2>
+<h2 id="dbms">Database Management Systems (247 bugs)</h2>
+<h3>CrateDB (48 bugs)</h3>
+<details>
+<summary>Unexpected result when using CASE statement</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/15029">https://github.com/crate/crate/issues/15029</a> <br />
+</details>
+<details>
+<summary>Unexpected Results when Using AND Operator</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/15050">https://github.com/crate/crate/issues/15050</a> <br />
+</details>
+<details>
+<summary>Unexpected Results when Using Concat Operator</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/15083">https://github.com/crate/crate/issues/15083</a> <br />
+</details>
+<details>
+<summary>Unexpected Results Using Boolean</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/15120">https://github.com/crate/crate/issues/15120</a> <br />
+</details>
+<details>
+<summary>Unexpected Results Using NULLIF</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/15121">https://github.com/crate/crate/issues/15121</a> <br />
+</details>
+<details>
+<summary>Unexpected result when using BETWEEN AND</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/15201">https://github.com/crate/crate/issues/15201</a> <br />
+</details>
+<details>
+<summary>Unexpected result when Concatenating NULL</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/15202">https://github.com/crate/crate/issues/15202</a> <br />
+</details>
+<details>
+<summary>Unexpected Result when using IS NOT NULL</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/15265">https://github.com/crate/crate/issues/15265</a> <br />
+</details>
+<details>
+<summary>Unexpected Result when using LEFT JOIN</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/15324">https://github.com/crate/crate/issues/15324</a> <br />
+</details>
+<details>
+<summary>Unexpected Results Using NULLIF with VARCHAR</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/15325">https://github.com/crate/crate/issues/15325</a> <br />
+</details>
+<details>
+<summary>Unexpected Result when using IN</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/15326">https://github.com/crate/crate/issues/15326</a> <br />
+</details>
+<details>
+<summary>Unexpected result when using string comparison AND IS NULL</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/15395">https://github.com/crate/crate/issues/15395</a> <br />
+</details>
+<details>
+<summary>Unexpected results when using AND</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/15458">https://github.com/crate/crate/issues/15458</a> <br />
+</details>
+<details>
+<summary>Unexpected result when using CONCAT_WS containing NULL</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/15459">https://github.com/crate/crate/issues/15459</a> <br />
+</details>
+<details>
+<summary>Unexpected result when using % with NULL</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/15500">https://github.com/crate/crate/issues/15500</a> <br />
+</details>
+<details>
+<summary>Unexpected result when using LTRIM with NULL as second argument</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/15527">https://github.com/crate/crate/issues/15527</a> <br />
+</details>
+<details>
+<summary>Unexpected result when casting integer as boolean</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/15537">https://github.com/crate/crate/issues/15537</a> <br />
+</details>
+<details>
+<summary>Weird string substitution when using JDBC</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/15566">https://github.com/crate/crate/issues/15566</a> <br />
+</details>
+<details>
+<summary>Unexpected result when using OR</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/15592">https://github.com/crate/crate/issues/15592</a> <br />
+</details>
+<details>
+<summary>Unexpected result when using INNER JOIN and CASE in filter</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/15613">https://github.com/crate/crate/issues/15613</a> <br />
+</details>
+<details>
+<summary>Unexpected result when using LIKE</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/15743">https://github.com/crate/crate/issues/15743</a> <br />
+</details>
+<details>
+<summary>Unexpected results when using system information functions</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/16026">https://github.com/crate/crate/issues/16026</a> <br />
+</details>
+<details>
+<summary>Unexpected result when using CURRENT_SETTING</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/16062">https://github.com/crate/crate/issues/16062</a> <br />
+</details>
+<details>
+<summary>Unexpected result when using PG_GET_PARTKEYDEF</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/16172">https://github.com/crate/crate/issues/16172</a> <br />
+</details>
+<details>
+<summary>Unexpected result when using DEFAULT during creating table</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/16173">https://github.com/crate/crate/issues/16173</a> <br />
+</details>
+<details>
+<summary>Unexpected result when querying with boolean comparisons</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/16227">https://github.com/crate/crate/issues/16227</a> <br />
+</details>
+<details>
+<summary>Unexpected result when using FORMAT_TYPE</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/16225">https://github.com/crate/crate/issues/16225</a> <br />
+</details>
+<details>
+<summary>Unexpected result when using escape character in LIKE</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/16350">https://github.com/crate/crate/issues/16350</a> <br />
+</details>
+<details>
+<summary>Unexpected result when using empty OBJECT literal</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/16476">https://github.com/crate/crate/issues/16476</a> <br />
+</details>
+<details>
+<summary>Unexpected results when using OBJECT nulls</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/16556">https://github.com/crate/crate/issues/16556</a> <br />
+</details>
+<details>
+<summary>Unexpected results when matching empty string with indexing disabled</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/16567">https://github.com/crate/crate/issues/16567</a> <br />
+</details>
+<details>
+<summary>Unexpected result when querying partitioned table with null values</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/16577">https://github.com/crate/crate/issues/16577</a> <br />
+</details>
+<details>
+<summary>Unexpected result when using bigint in ORDER BY</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/16615">https://github.com/crate/crate/issues/16615</a> <br />
+</details>
+<details>
+<summary>Unexpected result when querying partitioned table with CASE WHEN</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/16614">https://github.com/crate/crate/issues/16614</a> <br />
+</details>
+<details>
+<summary>Unexpected result when using ARRAY(TEXT) in IN</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/16652">https://github.com/crate/crate/issues/16652</a> <br />
+</details>
+<details>
+<summary>OutOfMemory when creating table with large replicas</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/16668">https://github.com/crate/crate/issues/16668</a> <br />
+</details>
+<details>
+<summary>Unexpected result when comparing CHAR with ''</summary>
+Status: confirmed<br />
+Link: <a href="https://github.com/crate/crate/issues/16689">https://github.com/crate/crate/issues/16689</a> <br />
+</details>
+<details>
+<summary>Unexpected result when comparing IP</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/16690">https://github.com/crate/crate/issues/16690</a> <br />
+</details>
+<details>
+<summary>Unexpected result when RIGHT JOIN a subquery</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/16951">https://github.com/crate/crate/issues/16951</a> <br />
+</details>
+<details>
+<summary>Potential hang when LEFT JOIN a subquery with EXP</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/16952">https://github.com/crate/crate/issues/16952</a> <br />
+</details>
+<details>
+<summary>Unexpected result when using multiple RIGHT JOIN</summary>
+Status: confirmed<br />
+Link: <a href="https://github.com/crate/crate/issues/17089">https://github.com/crate/crate/issues/17089</a> <br />
+</details>
+<details>
+<summary>Potential hang when LEFT JOIN a subquery with EXP</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/16952">https://github.com/crate/crate/issues/16952</a> <br />
+</details>
+<details>
+<summary>Unexpected results when using LEFT JOIN with a subquery</summary>
+Status: confirmed<br />
+Link: <a href="https://github.com/crate/crate/issues/17380">https://github.com/crate/crate/issues/17380</a> <br />
+</details>
+<details>
+<summary>Unexpected results when querying BOOLEAN values</summary>
+Status: confirmed<br />
+Link: <a href="https://github.com/crate/crate/issues/17379">https://github.com/crate/crate/issues/17379</a> <br />
+</details>
+<details>
+<summary>Unexpected results when using ARRAY_POSITION</summary>
+Status: confirmed<br />
+Link: <a href="https://github.com/crate/crate/issues/17378">https://github.com/crate/crate/issues/17378</a> <br />
+</details>
+<details>
+<summary>Unexpected result when using IP addresses</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/17764">https://github.com/crate/crate/issues/17764</a> <br />
+</details>
+<details>
+<summary>Unexpected result when comparing CHAR values with newline</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/17765">https://github.com/crate/crate/issues/17765</a> <br />
+</details>
+<details>
+<summary>Unexpected result when querying a partitioned table by a BOOLEAN column</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/crate/crate/issues/17766">https://github.com/crate/crate/issues/17766</a> <br />
+</details>
 <h3>MonetDB (47 bugs)</h3>
 <details>
 <summary>Unexpected result for INNER JOIN with IS NOT NULL</summary>
@@ -478,232 +719,6 @@ Link: <a href="None">None</a> <br />
 Status: fixed<br />
 Link: <a href="None">None</a> <br />
 </details>
-<h3>cratedb (45 bugs)</h3>
-<details>
-<summary>Unexpected result when using CASE statement</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/15029">https://github.com/crate/crate/issues/15029</a> <br />
-</details>
-<details>
-<summary>Unexpected Results when Using AND Operator</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/15050">https://github.com/crate/crate/issues/15050</a> <br />
-</details>
-<details>
-<summary>Unexpected Results when Using Concat Operator</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/15083">https://github.com/crate/crate/issues/15083</a> <br />
-</details>
-<details>
-<summary>Unexpected Results Using Boolean</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/15120">https://github.com/crate/crate/issues/15120</a> <br />
-</details>
-<details>
-<summary>Unexpected Results Using NULLIF</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/15121">https://github.com/crate/crate/issues/15121</a> <br />
-</details>
-<details>
-<summary>Unexpected result when using BETWEEN AND</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/15201">https://github.com/crate/crate/issues/15201</a> <br />
-</details>
-<details>
-<summary>Unexpected result when Concatenating NULL</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/15202">https://github.com/crate/crate/issues/15202</a> <br />
-</details>
-<details>
-<summary>Unexpected Result when using IS NOT NULL</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/15265">https://github.com/crate/crate/issues/15265</a> <br />
-</details>
-<details>
-<summary>Unexpected Result when using LEFT JOIN</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/15324">https://github.com/crate/crate/issues/15324</a> <br />
-</details>
-<details>
-<summary>Unexpected Results Using NULLIF with VARCHAR</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/15325">https://github.com/crate/crate/issues/15325</a> <br />
-</details>
-<details>
-<summary>Unexpected Result when using IN</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/15326">https://github.com/crate/crate/issues/15326</a> <br />
-</details>
-<details>
-<summary>Unexpected result when using string comparison AND IS NULL</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/15395">https://github.com/crate/crate/issues/15395</a> <br />
-</details>
-<details>
-<summary>Unexpected results when using AND</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/15458">https://github.com/crate/crate/issues/15458</a> <br />
-</details>
-<details>
-<summary>Unexpected result when using CONCAT_WS containing NULL</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/15459">https://github.com/crate/crate/issues/15459</a> <br />
-</details>
-<details>
-<summary>Unexpected result when using % with NULL</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/15500">https://github.com/crate/crate/issues/15500</a> <br />
-</details>
-<details>
-<summary>Unexpected result when using LTRIM with NULL as second argument</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/15527">https://github.com/crate/crate/issues/15527</a> <br />
-</details>
-<details>
-<summary>Unexpected result when casting integer as boolean</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/15537">https://github.com/crate/crate/issues/15537</a> <br />
-</details>
-<details>
-<summary>Weird string substitution when using JDBC</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/15566">https://github.com/crate/crate/issues/15566</a> <br />
-</details>
-<details>
-<summary>Unexpected result when using OR</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/15592">https://github.com/crate/crate/issues/15592</a> <br />
-</details>
-<details>
-<summary>Unexpected result when using INNER JOIN and CASE in filter</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/15613">https://github.com/crate/crate/issues/15613</a> <br />
-</details>
-<details>
-<summary>Unexpected result when using LIKE</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/15743">https://github.com/crate/crate/issues/15743</a> <br />
-</details>
-<details>
-<summary>Unexpected results when using system information functions</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/16026">https://github.com/crate/crate/issues/16026</a> <br />
-</details>
-<details>
-<summary>Unexpected result when using CURRENT_SETTING</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/16062">https://github.com/crate/crate/issues/16062</a> <br />
-</details>
-<details>
-<summary>Unexpected result when using PG_GET_PARTKEYDEF</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/16172">https://github.com/crate/crate/issues/16172</a> <br />
-</details>
-<details>
-<summary>Unexpected result when using DEFAULT during creating table</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/16173">https://github.com/crate/crate/issues/16173</a> <br />
-</details>
-<details>
-<summary>Unexpected result when querying with boolean comparisons</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/16227">https://github.com/crate/crate/issues/16227</a> <br />
-</details>
-<details>
-<summary>Unexpected result when using FORMAT_TYPE</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/16225">https://github.com/crate/crate/issues/16225</a> <br />
-</details>
-<details>
-<summary>Unexpected result when using escape character in LIKE</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/16350">https://github.com/crate/crate/issues/16350</a> <br />
-</details>
-<details>
-<summary>Unexpected result when using empty OBJECT literal</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/16476">https://github.com/crate/crate/issues/16476</a> <br />
-</details>
-<details>
-<summary>Unexpected results when using OBJECT nulls</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/16556">https://github.com/crate/crate/issues/16556</a> <br />
-</details>
-<details>
-<summary>Unexpected results when matching empty string with indexing disabled</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/16567">https://github.com/crate/crate/issues/16567</a> <br />
-</details>
-<details>
-<summary>Unexpected result when querying partitioned table with null values</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/16577">https://github.com/crate/crate/issues/16577</a> <br />
-</details>
-<details>
-<summary>Unexpected result when using bigint in ORDER BY</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/16615">https://github.com/crate/crate/issues/16615</a> <br />
-</details>
-<details>
-<summary>Unexpected result when querying partitioned table with CASE WHEN</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/16614">https://github.com/crate/crate/issues/16614</a> <br />
-</details>
-<details>
-<summary>Unexpected result when using ARRAY(TEXT) in IN</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/16652">https://github.com/crate/crate/issues/16652</a> <br />
-</details>
-<details>
-<summary>OutOfMemory when creating table with large replicas</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/16668">https://github.com/crate/crate/issues/16668</a> <br />
-</details>
-<details>
-<summary>Unexpected result when comparing CHAR with ''</summary>
-Status: confirmed<br />
-Link: <a href="https://github.com/crate/crate/issues/16689">https://github.com/crate/crate/issues/16689</a> <br />
-</details>
-<details>
-<summary>Unexpected result when comparing IP</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/16690">https://github.com/crate/crate/issues/16690</a> <br />
-</details>
-<details>
-<summary>Unexpected result when RIGHT JOIN a subquery</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/16951">https://github.com/crate/crate/issues/16951</a> <br />
-</details>
-<details>
-<summary>Potential hang when LEFT JOIN a subquery with EXP</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/16952">https://github.com/crate/crate/issues/16952</a> <br />
-</details>
-<details>
-<summary>Unexpected result when using multiple RIGHT JOIN</summary>
-Status: confirmed<br />
-Link: <a href="https://github.com/crate/crate/issues/17089">https://github.com/crate/crate/issues/17089</a> <br />
-</details>
-<details>
-<summary>Potential hang when LEFT JOIN a subquery with EXP</summary>
-Status: fixed<br />
-Link: <a href="https://github.com/crate/crate/issues/16952">https://github.com/crate/crate/issues/16952</a> <br />
-</details>
-<details>
-<summary>Unexpected results when using LEFT JOIN with a subquery</summary>
-Status: confirmed<br />
-Link: <a href="https://github.com/crate/crate/issues/17380">https://github.com/crate/crate/issues/17380</a> <br />
-</details>
-<details>
-<summary>Unexpected results when querying BOOLEAN values</summary>
-Status: confirmed<br />
-Link: <a href="https://github.com/crate/crate/issues/17379">https://github.com/crate/crate/issues/17379</a> <br />
-</details>
-<details>
-<summary>Unexpected results when using ARRAY_POSITION</summary>
-Status: confirmed<br />
-Link: <a href="https://github.com/crate/crate/issues/17378">https://github.com/crate/crate/issues/17378</a> <br />
-</details>
 <h3>Dolt (28 bugs)</h3>
 <details>
 <summary>Unexpected Results when Using '%' operator</summary>
@@ -845,7 +860,7 @@ Link: <a href="https://github.com/dolthub/dolt/issues/7372">https://github.com/d
 Status: fixed<br />
 Link: <a href="https://github.com/dolthub/dolt/issues/7515">https://github.com/dolthub/dolt/issues/7515</a> <br />
 </details>
-<h3>DuckDB (23 bugs)</h3>
+<h3>DuckDB (26 bugs)</h3>
 <details>
 <summary>Unexpected Results when using IS NOT NULL</summary>
 Status: fixed<br />
@@ -960,6 +975,21 @@ Link: <a href="https://github.com/duckdb/duckdb/issues/15602">https://github.com
 <summary>Unexpected results after indexing a column with multiple rows</summary>
 Status: confirmed<br />
 Link: <a href="https://github.com/duckdb/duckdb/issues/16074">https://github.com/duckdb/duckdb/issues/16074</a> <br />
+</details>
+<details>
+<summary>Unexpected result when RIGHT JOIN with a subquery</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/duckdb/duckdb/issues/16863">https://github.com/duckdb/duckdb/issues/16863</a> <br />
+</details>
+<details>
+<summary>Unexpected result when using LEFT JOIN</summary>
+Status: fixed<br />
+Link: <a href="https://github.com/duckdb/duckdb/issues/17042">https://github.com/duckdb/duckdb/issues/17042</a> <br />
+</details>
+<details>
+<summary>Unexpected results when comparing NULL values</summary>
+Status: confirmed<br />
+Link: <a href="https://github.com/duckdb/duckdb/issues/17257">https://github.com/duckdb/duckdb/issues/17257</a> <br />
 </details>
 <h3>Virtuoso (10 bugs)</h3>
 <details>

@@ -87,6 +87,42 @@ category: life
 <!-- Recent Digital Era (2024-2025) -->
 <h2 class="year-title">2025</h2>
 <div class="travel-gallery">
+    <!-- Japan 2025 (Tokyo) -->
+    <div class="travel-item">
+        {% include figure.html path="assets/img/ueno.jpeg" title="NA" class="img-fluid" %}
+        <div class="travel-caption">
+            上野公园<br>
+            Ueno Park @ Tokyo, 2025-11-28
+        </div>
+    </div>
+
+    <!-- Japan 2025 (Fuji) -->
+    <div class="travel-item">
+        {% include figure.html path="assets/img/Fujisan.jpeg" title="NA" class="img-fluid" %}
+        <div class="travel-caption">
+            富士山河口湖<br>
+            Fujikawaguchiko, 2025-11-26
+        </div>
+    </div>
+
+    <!-- China 2025 -->
+    <div class="travel-item">
+        {% include figure.html path="assets/img/huangguoshu.jpeg" title="NA" class="img-fluid" %}
+        <div class="travel-caption">
+            黄果树瀑布<br>
+            Huangguoshu Waterfall, 2025-10-20
+        </div>
+    </div>
+
+    <!-- Japan 2025 (Kyoto) -->
+    <div class="travel-item">
+        {% include figure.html path="assets/img/sanzenin.jpeg" title="NA" class="img-fluid" %}
+        <div class="travel-caption">
+            三千院<br>
+            Sanzen-in @ Kyoto, 2025-08-22
+        </div>
+    </div>
+
     <!-- Germany 2025 -->
     <div class="travel-item">
         {% include figure.html path="assets/img/obersee.jpeg" title="NA" class="img-fluid" %}

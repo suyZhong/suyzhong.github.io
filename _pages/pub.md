@@ -5,7 +5,7 @@ permalink: /publications/
 description: 
 nav: true
 nav_order: 2
-years: [2025]
+years: [2025, 2026]
 # display_categories: [life]
 # horizontal: false
 ---
